@@ -1,2 +1,3 @@
 # gcp-devops-project
-### This is a file for our new GCP DevOps project.
+### This repo is for GCP DevOps project.
+### This shall be my first proper devops project.
